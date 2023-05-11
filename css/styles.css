@@ -1,0 +1,298 @@
+#head{
+    
+    background-image: url(/images/coffee.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0% 5%;
+    height: 750px;
+}
+.btn.btn-warning{
+    border-radius: 50px;
+}
+.nav-link{
+    margin: 0 10px ;
+}
+.navbar-brand{
+    font-family: 'Clicker Script', cursive;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+
+/* ------------------firstbody---------------- */
+#first-body{
+    background-image: url(/images/coffee.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+    
+}
+.mainhead{
+    font-family: 'Clicker Script', cursive;
+    font-size: 13rem;
+    padding-left: 0%;
+
+}
+.mainpara{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    padding: 50px 15px 0 0;
+}
+.ptag{
+    padding-right: 700px;
+    font-size:1.2rem ;
+    text-align: left;
+}
+
+
+/* second body */
+
+.discover{
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #603809;
+    padding-top: 100px;
+    text-align: left;
+    
+
+}
+.cup{
+    margin-top: 30px;
+    
+}
+.stag{
+    display: flex;
+    text-align: left;
+    font-size: 1rem;
+    color: #707070;
+    margin-top: 50px;
+    margin-right: 100px;
+    padding-left: 7px;
+    /* margin-right: 800px; */
+    /* padding-right: 600px; */
+}
+.lmbyn{
+    text-align: left;
+}
+.blast{
+    left: 0px;
+
+}
+#second-body{
+    background-image: url(/images/coffee_blast.png);
+    background-repeat: no-repeat;
+    background-position: 0 120%;
+}
+
+
+
+/* third-body */
+
+
+.ttext{
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    color: #603809 ;
+}
+.stext{
+    color: #707070;
+    font-size: 1rem;
+    margin-bottom: 40px;
+
+}
+/* .crds{
+    width: 50px;
+    height: 50px;
+} */
+.card-img-top{
+    left: 0;
+   
+}
+.card{
+    margin-top: 100px;
+    margin: 0 35px;
+    background-color: #F9C06A;
+}
+.menuimg{
+    padding-top: 10px;
+}
+/* #third-body{
+    background-image: url(/images/blastr.png);
+    background-repeat: no-repeat;
+    background-position: 100% 150%;
+} */
+
+
+/* fourt-body */
+
+.ttext2{
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    color: #603809 ;
+    padding-top: 50px;
+
+}
+:hover.forthcrd{
+    background-color: #707070;
+    
+}
+
+#fourth-body{
+    background-image: url(/images/blastr.png);
+    background-repeat: no-repeat;
+    background-position: 103% -30%;   
+}
+p{
+    color:#707070;
+}
+.fp{
+    margin-top: 50px;
+    text-align: center;
+}
+.fh2{
+    text-align: center;
+    color:#603809  ;
+}
+.fbtn{
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+
+/* fifth-body */
+#fifth-body{
+    margin-top: 50px;
+    background-color:#FFF2CC;
+    background-image: url(/images/coffee_bean.png);
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    /* background-image: url(/images/ccup.png);
+    background-repeat: no-repeat; */
+    
+}
+.imgz{
+    position: relative;
+    background-position: 0 100%;
+}
+/* .ccup{
+    width: 300px;
+    height: 500px;
+} */
+.beans{
+    background-position: 0 100%;
+}
+
+
+/* .fftext{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+} */
+.discover1{
+    font-family: 'Playfair Display', serif;
+    font-size:2.5rem ;
+    font-weight: bolder;
+    color: #3C2A21;
+    margin-top: 50px;
+    padding-top: 100px;
+    padding-right: 200px;
+}
+.ffrow{
+    margin-top: 100px;
+}
+.stag1{
+    display: flex;
+    text-align: left;
+    font-size: 1rem;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    color: #1A120B;
+}
+
+
+/* sixth-body */
+#sixth-body{
+    margin-top: 50px;
+}
+
+.shead{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    font-family: 'Playfair Display', serif;
+    color: #3C2A21;
+}
+.sp{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1050px){
+
+.mainhead{
+    font-family: 'Clicker Script', cursive;
+    font-size: 9.5rem;
+    padding-left: 0%;
+
+}
+.mainpara{
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    padding: 0 15px 0 0;
+}
+.ptag{
+    padding-right: 0px;
+}
+#first-body{
+    text-align: center;
+}
+#head{
+    text-align: center;
+    height: 800px;
+}
+#second-body{
+    background-position: 0 -10;
+}
+#third-body{
+    display: flex;
+    align-content: center;
+}
+.mbl{
+    margin-right: 100px;
+}
+.fbtn{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+
+}
+
